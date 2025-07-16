@@ -9,6 +9,5 @@ jgbjhggjgjgj
 <hr>
 jhgjhgjgjhgjg<br>
 <hr>
-[gl](http://www.google.com)
-
-[yh](http://tw.yahoo.com)
+[google](http://www.google.com)
+[yahoo](http://tw.yahoo.com)
