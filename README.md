@@ -15,3 +15,5 @@ jhgjhgjgjhgjg<br>
 [yahoo](http://tw.yahoo.com)
 
 [練習](55664.txt)
+
+[School文件](doc/index.html)
